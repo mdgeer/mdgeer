@@ -2,7 +2,7 @@
 
 I'm a product builder. I build apps, tools, automations, and websites with AI — things that take multiple teams and multiple sprints at my day job. I do them in hours and days, then write about what worked and what didn't.
 
-**What I've Been Building**
+**What I've Been Building Recently**
 
 - Spun up multiple agents in Claude Code to run competitive analysis on a new product idea before writing a single line of code
 - Built a PM skill taxonomy from 76 real job descriptions, with a weighted scoring model and eval matrix, tested against five synthetic cases before shipping
