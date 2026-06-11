@@ -5,7 +5,7 @@ I'm a product builder. I build apps, tools, automations, and websites with AI â€
 **What I've Been Building Recently**
 
 - Spun up multiple agents in Claude Code to run competitive analysis on a new product idea before writing a single line of code
-- Built a PM skill taxonomy from 76 real job descriptions, with a weighted scoring model and eval matrix, tested against five synthetic cases before shipping
+- Built a PM skill taxonomy from 76 real job descriptions, with a weighted scoring model and matrix, tested against five synthetic cases before shipping
 - Prototyped and shipped a full AI career tool for PMs from zero to live, including the prompt engineering, scoring logic, and email delivery pipeline
 - Built a custom web analytics tracker from scratch and deployed it alongside GA4 as a live benchmark
 - Shipped long-form blog content on PM and automation using a fully structured AI workflow, start to finish
