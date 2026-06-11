@@ -18,7 +18,7 @@ I built this because I was pasting job descriptions into Claude, trying to under
 
 Two things worth calling out:
 - The scoring model uses a weighted PM skill taxonomy built from 76 real job descriptions. Claude handles the judgment work; the math runs separately so scores stay consistent and defensible.
-- The eval matrix was built before launch, with five synthetic test cases designed to catch hallucinations, scoring drift, and inference violations.
+- The eval matrix was built before launch, with five synthetic test cases designed to catch hallucinations, scoring drift, and inference violations. **Note:** This was a static test, not ongoing production tracing.
 
 Open source.
 
